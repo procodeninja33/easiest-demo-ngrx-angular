@@ -136,7 +136,3 @@ in tabs.component.html
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-
-## Further help
-
-Checkout full blog [here](https://www.logisticinfotech.com/blog/easiest-demo-to-learn-ngrx-in-angular-6).
